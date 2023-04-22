@@ -1,6 +1,6 @@
 {
     "port": 5002,
-    "mongoURI": "mongodb+srv://hellyeah:Eupku65F2yK2j5M@cluster0.hrrq2.mongodb.net/app?retryWrites=true&w=majority",
+    "mongoURI": "ok",
     "jwtSecret": "qwrowgdisgsjisdgijsg",
     "baseUrl": "http://localhost:5002"
 }
